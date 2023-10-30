@@ -1,4 +1,3 @@
-EXPLAIN
 SELECT
     sub.id,
     sub.date,

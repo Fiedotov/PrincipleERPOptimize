@@ -1,4 +1,3 @@
-EXPLAIN
 SELECT
     min(l.id) AS id,
     l.user_id,
